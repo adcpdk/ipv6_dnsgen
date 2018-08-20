@@ -1,0 +1,22 @@
+home.domain.tld
+Host d.3.3.f.8.c
+mail1.domain.tld
+Host 4.7.d.9.3.0
+mail2.domain.tld
+Host b.5.e.0.9.1
+mail3.domain.tld
+Host b.c.c.0.8.5
+noms.domain.tld
+Host 9.d.a.3.e.3
+prefix1.domain.tld
+Host 6.a.9.3.e.0
+prefix2.domain.tld
+Host 8.2.c.4.e.a
+smtp1.domain.tld
+Host 8.3.c.2.5.c
+smtp2.domain.tld
+Host d.7.7.1.6.b
+smtp3.domain.tld
+Host 1.2.3.a.d.9
+speedtest.domain.tld
+Host 7.a.e.0.b.d

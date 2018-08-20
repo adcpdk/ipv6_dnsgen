@@ -1,0 +1,11 @@
+d.3.3.f.8.c   PTR   home.domain.tld
+4.7.d.9.3.0   PTR   mail1.domain.tld
+b.5.e.0.9.1   PTR   mail2.domain.tld
+b.c.c.0.8.5   PTR   mail3.domain.tld
+9.d.a.3.e.3   PTR   noms.domain.tld
+6.a.9.3.e.0   PTR   prefix1.domain.tld
+8.2.c.4.e.a   PTR   prefix2.domain.tld
+8.3.c.2.5.c   PTR   smtp1.domain.tld
+d.7.7.1.6.b   PTR   smtp2.domain.tld
+1.2.3.a.d.9   PTR   smtp3.domain.tld
+7.a.e.0.b.d   PTR   speedtest.domain.tld
